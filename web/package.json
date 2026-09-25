@@ -18,14 +18,14 @@
     "tailwind-merge": "^3.6.0"
   },
   "devDependencies": {
-    "@tailwindcss/vite": "^4.3.2",
-    "@types/node": "^26.1.1",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.6.2",
     "@types/react": "^18.3.31",
     "@types/react-dom": "^18.3.7",
-    "@vitejs/plugin-react": "^6.0.3",
+    "@vitejs/plugin-react": "^6.1.1",
     "tailwindcss": "^4.3.2",
     "typescript": "^7.0.2",
-    "vite": "^8.1.4",
-    "vitest": "^4.1.10"
+    "vite": "^8.2.1",
+    "vitest": "^4.1.11"
   }
 }
